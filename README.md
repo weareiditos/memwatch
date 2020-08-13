@@ -1,5 +1,5 @@
 # memwatch
-C/C++内存监管器
+C/C++内存泄漏检测器
 
 使用方法：  
     1）./include文件夹存放着memwatch项目的头文件。  
